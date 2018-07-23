@@ -155,8 +155,8 @@ header.masthead {
   padding-bottom: 100px;
   color: white;
   background: url("../img/sunflower.png"), #7b4397;
-  background: url("../img/sunflower.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/sunflower.png"), linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/sunflower.png"), -webkit-linear-gradient(to left, #ffc711, #ffffff);
+  background: url("../img/sunflower.png"), linear-gradient(to left, #ffc711, #ffffff);
 }
 
 header.masthead .header-content {
