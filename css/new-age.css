@@ -234,6 +234,10 @@ section.download .badges .badge-link img {
   }
 }
 
+section.features {
+  background: #054912
+}
+
 section.features .section-heading {
   margin-bottom: 100px;
 }
