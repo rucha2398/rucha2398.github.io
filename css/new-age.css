@@ -254,6 +254,7 @@ section.features .feature-item {
 
 section.features .device-container {
   margin-bottom: 100px;
+  background: #054912;
 }
 
 @media (min-width: 992px) {
