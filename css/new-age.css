@@ -288,7 +288,7 @@ section.features .feature-item i {
 
 section.cta {
   position: relative;
-  padding: 250px 0;
+  padding: 100px 0;
   background-image: url("../img/roots.jpg");
   background-position: center;
   -webkit-background-size: cover;
