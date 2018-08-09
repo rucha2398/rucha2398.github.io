@@ -298,7 +298,7 @@ section.cta {
 }
 
 section.cta .cta-content {
-  position: relative;
+  position: center;
   z-index: 1;
 }
 
