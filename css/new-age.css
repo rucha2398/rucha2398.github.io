@@ -88,6 +88,7 @@ section h2 {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
   letter-spacing: 2px;
   text-transform: uppercase;
+  color: white;
 }
 
 #mainNav .navbar-nav > li > a.active {
