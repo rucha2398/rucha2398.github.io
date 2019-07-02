@@ -154,9 +154,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/wave.png"), #51c6a1;
-  background: url("../img/wave.png"), -webkit-linear-gradient(to left, #51c6a1, #51c6a1);
-  background: url("../img/wave.png"), linear-gradient(to left, #51c6a1, #51c6a1);
+  background: url(""), #51c6a1;
+  background: url(""), -webkit-linear-gradient(to left, #51c6a1, #51c6a1);
+  background: url(""), linear-gradient(to left, #51c6a1, #51c6a1);
 }
 
 header.masthead .header-content {
