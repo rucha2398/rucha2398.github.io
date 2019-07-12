@@ -4,9 +4,9 @@ body {
   height: 100%;
 }
 
-body {
+/*body {
   font-family: 'Josefin Sans','sans-serif';
-}
+}*/
 
 a {
   color: #fdcc52;
@@ -53,6 +53,19 @@ section {
 
 section h2 {
   font-size: 50px;
+}
+
+* {
+  box-sizing: border-box;
+/*   border: 1px solid black; */
+}
+
+body {
+  font-family: 'Lato';
+   -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizelegibility;
 }
 
 ul {
