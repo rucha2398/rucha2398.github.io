@@ -272,6 +272,7 @@ section.features .feature-item {
   padding-top: 50px;
   padding-bottom: 80px;
   text-align: center;
+  background-color: #000000;
 }
 
 section.features .feature-item h3 {
