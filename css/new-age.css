@@ -259,7 +259,7 @@ section.features .feature-item {
 }
 
 section.features .device-container {
-  margin-bottom: 100px;
+  margin-bottom: 0px;
 }
 
 @media (min-width: 992px) {
