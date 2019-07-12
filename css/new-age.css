@@ -5,7 +5,7 @@ body {
 }
 
 body {
-  font-family: 'Josefin Sans','sans-serif';
+  font-family: 'Overpass','sans-serif';
 }
 
 a {
@@ -36,7 +36,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Josefin Sans', 'sans-serif';
+  font-family: 'Overpass', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -61,14 +61,14 @@ section h2 {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
-  font-family: 'Josefin Sans','sans-serif';
+  font-family: 'Overpass','sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand {
   color: #fdcc52;
-  font-family: 'Josefin Sans', 'sans-serif';
+  font-family: 'Overpass', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
