@@ -41,12 +41,3 @@
 
 })(jQuery); // End of use strict
 
-var section = $('li.test');
-
-function toggleAccordion() {
-  section.removeClass('active');
-  $(this).addClass('active');
-}
-
-section.on('click', toggleAccordion);
-
