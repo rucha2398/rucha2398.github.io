@@ -55,7 +55,7 @@ section h2 {
   font-size: 50px;
 }
 
-ul.test {
+ul {
   display: flex;
   min-height: 100vh;
   max-height: 100vh;
@@ -65,7 +65,7 @@ ul.test {
   list-style-type: none;
 }
 
-li.test {
+li {
   flex: 1;
   display: flex;
   align-items: stretch;
