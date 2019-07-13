@@ -64,6 +64,10 @@ section h2 {
   width: 50%;
 }
 
+.container {
+  padding-bottom: 10px;
+}
+
 
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
