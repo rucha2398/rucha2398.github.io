@@ -426,7 +426,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .text-primary {
-  color: #ffffff;
+  color: #000000;
 }
 
 .no-gutter > [class*='col-'] {
