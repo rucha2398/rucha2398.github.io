@@ -30,8 +30,13 @@ hr.light {
   border-color: white;
 }
 
+h2 {
+  font-family: 'Josefin Sans', 'sans-serif';
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
 h1,
-h2,
 h3,
 h4,
 h5,
