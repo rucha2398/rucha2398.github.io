@@ -218,6 +218,11 @@ section.download {
   padding: 120px 0;
 }
 
+section.download2 {
+  position: relative;
+  padding: 0px 0;
+}
+
 section.download h2 {
   font-size: 50px;
   margin-top: 0;
