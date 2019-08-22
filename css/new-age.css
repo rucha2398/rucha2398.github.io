@@ -466,7 +466,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 /* [1] The container */
 .img-hover-zoom {
-  height: 300px; /* [1.1] Set it as per your need */
+  height: 180px; /* [1.1] Set it as per your need */
   overflow: hidden; /* [1.2] Hide the overflowing of child elements */
 }
 
