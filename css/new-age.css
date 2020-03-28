@@ -438,6 +438,7 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
+  padding-top: 30px;
 }
 
 .btn-outline {
