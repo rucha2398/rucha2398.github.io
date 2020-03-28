@@ -215,7 +215,8 @@ header.masthead .device-container .screen img {
 
 section.download {
   position: relative;
-  padding: 0 0;
+  padding-top: 150px;
+  padding-bottom: 50px;
 }
 
 section.download2 {
