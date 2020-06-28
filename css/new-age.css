@@ -481,3 +481,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .img-hover-zoom:hover img {
   transform: scale(1.3);
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
