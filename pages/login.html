@@ -81,14 +81,15 @@
                             alert("Passwords do not match.");
                         }
                     }
+
                     var input = document.getElementById("pswd");
-                    input.addEventListener("keyup", 
-                      function(event) {
-                        if (event.keyCode ===13) {
-                          event.preventDefault();
-                          document.getElementById("myBtn").click();
-                        }
+                    input.addEventListener("keyup", function(event) {
+                      if (event.keyCode === 13) {
+                       event.preventDefault();
+                       document.getElementById("myBtn").click();
+                      }
                     });
+                    
                 </script>
                 </body>
                 <h2> </h2>
