@@ -65,12 +65,20 @@
                 <body>
                     <form>
                         <label for="pswd">Please enter the password: </label>
-                        <input id="pswd" type="password" >
+                        <input id="pswd" type="password">
                         <input id="myBtn" type="button" value="Submit" onclick="checkPswd();" />
                     </form>
                 
                 <!--Function to check password the already set password is pizzaparty-->
                 <script type="text/javascript">
+                  var input = document.getElementById("pswd");
+                    input.addEventListener("keyup", function(event) {
+                      if (event.keyCode === 13) {
+                       event.preventDefault();
+                       document.getElementById("myBtn").click();
+                      }
+                    });
+                    
                     function checkPswd() {
                         var confirmPassword = "pizzaparty";
                         var password = document.getElementById("pswd").value;
@@ -81,14 +89,6 @@
                             alert("Passwords do not match.");
                         }
                     }
-
-                    var input = document.getElementById("pswd");
-                    input.addEventListener("keyup", function(event) {
-                      if (event.keyCode === 13) {
-                       event.preventDefault();
-                       document.getElementById("myBtn").click();
-                      }
-                    });
 
                 </script>
                 </body>
