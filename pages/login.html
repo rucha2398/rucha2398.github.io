@@ -71,11 +71,11 @@
                 
                 <!--Function to check password the already set password is pizzaparty-->
                 <script type="text/javascript">
-                  var input = document.getElementById("pswd").value;
+                  var input = document.getElementById("pswd");
                     input.addEventListener("keyup", function(event) {
                       if (event.keyCode === 13) {
                        event.preventDefault();
-                       document.getElementById("myBtn").click();
+                       document.getElementById("myBtn").onclick();
                       }
                     });
 
